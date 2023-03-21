@@ -1,2 +1,4 @@
 this is a text
 I have a new commit
+I have other line
+to see other commit
